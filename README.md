@@ -1,0 +1,1 @@
+A Python program that simulates an ATM. Users can check their balance, deposit money, and withdraw money. It blocks withdrawals that would overdraw the account. Built to practice loops, conditionals, and functions with real banking logic.
